@@ -13,7 +13,7 @@ console.log(module.exports.c)
 console.log(module.exports === this)
 console.log(module.exports)
 
-// criando um variavel maluca: sem var e let!
+// criando um variavel maluca: sem var e let!v 
 abc = 3 // nao faça isso em casa!!!
 console.log(global.abc)
 

@@ -11,4 +11,4 @@ console.log(valores);//imprimindo os dados do novov array
 console.log(valores.pop())//pegao ultimo valor do array 
 delete valores[100];//retira um valor do array
 console.log(valores)//imprime o novo valor 
-console.log(typeof valores)//imprime o tipo do array
+console.log(typeof valores)//imprime o tipo do array 
