@@ -25,4 +25,4 @@ imprimirNomeGritado (obj)
 
 
 const obj2 ={nome: "Roberto"}
-imprimirNomeGritado (obj2)
+imprimirNomeGritado (obj2    )
