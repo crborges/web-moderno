@@ -32,3 +32,4 @@ console.log(getPreco.call(carro, 0.17, '$'))
 
 //Apply com passagem de parametros , primeiro o contexto de execução e depois os parametros dentro de um array
 console.log(getPreco.apply(carro, [0.14, '€']))
+
