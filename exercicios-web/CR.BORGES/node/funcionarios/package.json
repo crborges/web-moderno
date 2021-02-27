@@ -1,0 +1,19 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "funcionarios",
+  "main": "funcionario.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funcioanrio",
+    "cadastro"
+  ],
+  "author": "Cristiano Borges",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.17.1"
+  }
+}
